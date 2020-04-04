@@ -263,7 +263,7 @@
         },
         "storageProfile": {
           "imageReference": {
-            "id": "/subscriptions/88f2486c-57f4-4269-aa70-83fc5a4a2d29/resourceGroups/jbossimage/providers/Microsoft.Compute/images/rheljbimage"
+            "id": "/subscriptions/88f2486c-57f4-4269-aa70-83fc5a4a2d29/resourceGroups/jbimagerg/providers/Microsoft.Compute/images/jbimg7.7"
           },
           "osDisk": {
             "name": "[concat(variables('vmName'),'_OSDisk')]",
